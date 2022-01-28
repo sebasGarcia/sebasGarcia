@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebasGarcia
 - 👀 I’m interested in data science, data analysis and visualization
-- 🌱 I’m currently learning data science and programming with Python and R
-- 💞️ I’m looking to collaborate on data science projects 
+- 🌱 I’m currently learning data science and programming with Python
+- 💞️ I’m looking to collaborate on data science projects, AI projects 
 - 📫 How to reach me ...
 
 <!---

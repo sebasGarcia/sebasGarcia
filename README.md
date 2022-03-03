@@ -1,6 +1,6 @@
 - 👋 Hola Mundo! I’m @sebasGarcia and I have a degree in Applied Computer Science, specialization Business IT.
-- 👀 I’m interested in Daata Science, AI, Data Science and Data Visualization
-- 🌱 I’m currently learning data science| AI and programming with Python in an AI Bootcamp 
+- 👀 I’m interested in Data Science, AI, Data Analytics and Data Visualization
+- 🌱 I’m currently learning Python, Machine Learning, NLP, CNN/RNN in an AI Bootcamp at BeCode Ghent
 - 📫 https://www.linkedin.com/in/sebastiangarciamartinez
 
 <!---

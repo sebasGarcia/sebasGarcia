@@ -1,6 +1,6 @@
 - 👋 Hola Mundo! I’m @sebasGarcia and I have a degree in Applied Computer Science, specialization Business IT and a Master's in Data Science.
 - 👀 I’m interested in Data Science, AI and Data Engineering. 
-- :computer: I also followed an AI/Data Science Intensive Training
+- :computer: I followed an AI/Data Science Intensive Training
 - 📫 https://www.linkedin.com/in/sebastiangarciamartinez
 
 <!---

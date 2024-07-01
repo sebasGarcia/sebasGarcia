@@ -1,7 +1,6 @@
-- 👋 Hola Mundo! I’m @sebasGarcia and I have a degree in Applied Computer Science, specialization Business IT.
-- 👀 I’m interested in Data Science, AI, Data Analytics, Data Engineering and Data Visualization. 
-- :computer: I followed an AI Bootcamp and I'm currently working as a Data consultant and studying a Master in Data Science
-- :desert_island: Beachlover who would love to someday become a Digital Nomad and work from anywhere around the :earth_americas:
+- 👋 Hola Mundo! I’m @sebasGarcia and I have a degree in Applied Computer Science, specialization Business IT and a Master's in Data Science.
+- 👀 I’m interested in Data Science, AI and Data Engineering. 
+- :computer: I also followed an AI/Data Science Intensive Training
 - 📫 https://www.linkedin.com/in/sebastiangarciamartinez
 
 <!---
